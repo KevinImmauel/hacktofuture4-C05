@@ -79,7 +79,17 @@ Silicon Colosseum is a fully containerised, real-time AI cyber-battle simulation
 ```bash
 # Clone the repository
 git clone <repo-link>
-cd silicon-colosseum
+cd <repo-name>
+```
+
+### 0. Initialize Virtual Environment and install libraries
+
+```bash
+python -m venv venv
+
+source venv/bin/activate
+
+pip install -r requirements.txt
 ```
 
 ### 1. Train the Blue Agent models (one-time)
