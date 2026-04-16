@@ -154,7 +154,7 @@ Open `http://localhost:5173` in your browser.
 
 | Name | Role |
 |------|------|
-| — | Red Agent / RL Engineering |
-| — | Blue Agent / ML Engineering |
-| — | Orchestrator / Backend |
-| — | Frontend / Dashboard |
+| Red Agent | RL Engineering |
+| Blue Agent | ML Engineering |
+| Orchestrator | Backend |
+| Frontend | Dashboard |
